@@ -49,6 +49,5 @@ namespace Tests
             RomanNumerals romanNumerals = new RomanNumerals();
             Assert.Equal(romanNumerals.convertToNumeral(1000), "M");
         }
-
     }
 }
